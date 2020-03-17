@@ -32,7 +32,7 @@ For the forecasting portion of the project, two different neural networks were a
 **Figure 1.** Total energy consumption forecasts aggregated for all homes in the dataset. **Left** LSTM Neural Network Forecast with an RMSE of 2,367 kWh. **Right** RNN forecast with an RMSE of 2,188 kWh
 
 
-![](forecast_image.png)
+![](nn_forecast.png)
 
 ---
 
