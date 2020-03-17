@@ -29,7 +29,7 @@ First, the data were pivoted so that each house was an observation with 536 colu
 
 For the forecasting portion of the project, two different neural networks were applied to the multivariate consumption data. Each made predictions for the total daily electricity load for all homes based on 13 features aggregated features including median energy consumption, daily max temperature, and cloud cover to name a few. The training set consisted of 487 days and the testing set 55. The LSTM model achieved an RMSE of 2,367 (kWh), performing slightly worse than the RNN model which had an RMSE of 2,188 (kWh). The LSTM was able to predict the daily spikes or irregularities in consumption while the RNN model made more conservative predictions close to the mean. 
 
-**Figure 1.** Total energy consumption forecasts aggregated for all homes in the dataset. **Left** LSTM Neural Network Forecast with an RMSE of 2,367 kWh. **Right** RNN forecast with an RMSE of 2,188 kWh
+**Figure 1.** Total energy consumption forecasts aggregated for all homes in the dataset. True values are in blue, predictions are in orange. **Left** LSTM Neural Network Forecast with an RMSE of 2,367 kWh. **Right** RNN forecast with an RMSE of 2,188 kWh
 
 
 ![](nn_forecast.png)
