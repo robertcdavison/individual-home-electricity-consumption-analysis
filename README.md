@@ -1,4 +1,4 @@
-<img src="https://images.fastcompany.net/image/upload/w_1153,ar_16:9,c_fill,g_auto,f_auto,q_auto,fl_lossy/fc/1680817-poster-1280-1-vote-household-electricity-use.jpg" style="float: left; margin: 10px; height: 27px">
+![](images/icon.png)
 
 # Energy Load Forecasting using Neural Networks and Household classification based on consumption patterns
 
@@ -12,7 +12,7 @@ This report is broken into two parts, classification and prediction. For classif
 
 The time series models that I created have relevant applications to a variety of industries where there is a need for accurate forecasting of key performance indicators like stock price, earnings or demand. Moreover, this project demonstrates my ability to quickly learn and apply complex modeling techniques.
 
-Link to Kaggle: https://www.kaggle.com/jeanmidev/smart-meters-in-london
+[Link to Kaggle](https://www.kaggle.com/jeanmidev/smart-meters-in-london)
 
 ---
 
