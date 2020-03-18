@@ -1,4 +1,4 @@
-![](images/icon.png)
+![](images/icon.png) <!-- .element height="50%" width="50%" -->
 
 # Energy Load Forecasting using Neural Networks and Household classification based on consumption patterns
 
