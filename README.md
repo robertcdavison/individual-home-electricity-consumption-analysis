@@ -1,4 +1,4 @@
-![](./images/icon.png =10x10)
+![](images/icon.png)
 
 # Energy Load Forecasting using Neural Networks and Household classification based on consumption patterns
 
